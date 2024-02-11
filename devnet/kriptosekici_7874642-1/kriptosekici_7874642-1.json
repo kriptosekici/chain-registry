@@ -26,9 +26,11 @@
     "chainId": "0x782852",
     "rpc": "https://froopyland.dymension.xyz/12/kriptosekici_7874642-1/evmrpc"
   },
+  "type": "RollApp",
   "da": "Avail",
-  "description": "RollApp",
+  "description": "Rues Community",
   "analytics": true,
+  "validator": true,
   "goldberg": true,
   "availAddress": "5GxZL1mkGhUonUobK8ZVXjZekKnbZ3qJsRQeUiHwGAPMpkDe"
 }
